@@ -1,6 +1,6 @@
 "# PVR_TheatreBooking" 
 FRONT_END  ->  ReactJS 
-FRONT_END  ->  SpringBoot
+BACK_END  ->  SpringBoot
 DATABASE   ->  Firebase
 
 Admin and User can access this theatreBooking system ,
